@@ -1,6 +1,6 @@
-# Online Blog Landing Page
+###  Online Blog Landing Page
 
-This project is a simple and responsive online blog landing page built using **Tailwind CSS**. It includes multiple sections such as a featured posts area, categories, recent posts, a newsletter subscription form, and a footer with social media links.
+This project is a simple and responsive online blog landing page built using **Tailwind CSS**. It includes multiple sections such as a featured posts area, categories, recent posts, a newsletter subscription form, and a footer with social media links and Portfolio.
 
 ### Features
 - **Responsive Design:** Works well on both desktop and mobile screens.
